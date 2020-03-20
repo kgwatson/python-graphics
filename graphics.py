@@ -999,9 +999,9 @@ def test():
     t.setStyle("bold italic")
     win.getMouse()
     t.setSize(14)
-    win.getMouse()
-    t.setFace("arial")
-    t.setSize(20)
+#    win.getMouse()
+#   t.setFace("arial")
+#    t.setSize(20)
     win.getMouse()
     win.close()
 
